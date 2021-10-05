@@ -21,7 +21,7 @@
 			</div>
 
 			<div class="nav" style="background-image:url(Images/f1.jpg)";>
-				<h2>"Style is a way to say who you are without having to speak."</h2>
+				<h3>"Style is a way to say who you are without having to speak."</h3>
 				
 				<?php
 
