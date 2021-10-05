@@ -7,7 +7,7 @@
 
 	<head>
 
-		<title>Accessories | Unique Fashions</title>
+		<title>Accessories | Unique Fashions </title>
 		<link href="./styles/mainstyle.css" rel="stylesheet" type="text/css" >
 		<link href="./styles/style.css" rel="stylesheet" type="text/css" >
 	</head>
