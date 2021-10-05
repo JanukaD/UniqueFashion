@@ -12,7 +12,7 @@
 
 	require "connect.php";
 
-		$sql="INSERT INTO contact (UserName, Email, Telephone, Comment) 
+		$sql="INSERT INTO contact (UserName, Email1, Telephone, Comment) 
 			  VALUES ('$user_name','$email','$telephone','$comment')";
 
 		if ($conn->query($sql) === TRUE) {
