@@ -36,7 +36,7 @@
 			</div>
 		
 			<div class="lnav" style="background-image:url(Images/f4.jpg)";>
-				<button class="button">Categories</button>
+				<button class="button">Categories Select</button>
 				
 				<ul>
 					<li>
