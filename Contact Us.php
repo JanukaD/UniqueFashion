@@ -25,7 +25,7 @@
 				
 				<?php
 
-                if (isset($_SESSION['user'])) {
+                if (isset($_SESSION['users'])) {
                     echo "<h3>Welcome to the Unique Fashions!!!<a href='Logout.php' style='text-decoration: none';>(Sign out)</h3>";
                 } else {
 	                echo "<a href='Index.php'><img src='Images/Home.png' style='width:50px;height:30px;align:right;'>"	;
