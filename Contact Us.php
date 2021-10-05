@@ -16,7 +16,7 @@
 
 			<div class="header" style="background-image:url(Images/f2.jpg)";>
 				<h1>Unique Fashions</h1>
-				<img class="img" src="Images/fashion.png">
+				<img class="img1" src="Images/fashion.png">
 				<img class="img1" src="Images/fashion.png">
 			</div>
 
