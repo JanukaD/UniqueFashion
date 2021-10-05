@@ -1,7 +1,7 @@
 <?php
 
     $P_name=$_POST['P_name'];
-	$P_price=$_POST['P_price'];
+	$P_price=$_POST['Pr_price'];
 	$P_type=$_POST['P_type'];
 
 	echo "$P_name</br>";
