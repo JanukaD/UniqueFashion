@@ -2,7 +2,7 @@
 <html>
 
 	<head>
-		<title>Admin Page | Unique Fashions</title>
+		<title>Admin Page | Unique Fashions </title>
 		<link href="./styles/mainstyle.css" rel="stylesheet" type="text/css" >
 		<link href="./styles/style.css" rel="stylesheet" type="text/css" >
 		<script type="text/javascript" src="./script/script.js"></script>
