@@ -39,9 +39,9 @@
 				<button class="button">Categories</button>
 				
 				<ul>
-					<li>
+					<li><h1>
 						<a href="Special offers.php">Special Offers</a>
-					</li><br><br>
+						</li></h1><br><br>
 
 					<li>
 						<a href="Ladies Wears.php">Ladies Wear</a>
