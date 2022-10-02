@@ -5,7 +5,6 @@
 	$P_type=$_POST['P_type'];
 
 	echo "$P_name</br>";
-	echo "$P_price</br>";
     echo "$P_type</br>";
 
 	require "connect.php";
